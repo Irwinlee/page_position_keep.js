@@ -4,5 +4,3 @@ This js enable the page to save/load the pageYOffset property to/from document.c
 
 // usage: <%= stylesheet_link_tag 'page_position_remember' %> in Rails
 // usage: <script src="/javascripts/page_position_keep.js" type="text/javascript"></script> in Javascript
-
-author: Irwinlee, lihongning_ynnu@126.com
